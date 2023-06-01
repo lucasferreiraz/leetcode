@@ -1,7 +1,8 @@
 # Leetcode Solutions in Java
 
-My leetcode submitted and accepted solutions on data structure and algorithm problems.
+My leetcode solutions on data structure and algorithm problems.
 
 ## [Array](src/main/java/com/dsa/array/)
 
-- [Contains Duplicate](src/main/java/com/dsa/array/ContainsDuplicate.java) (Easy)
+- [Contains Duplicate - 217](src/main/java/com/dsa/array/ContainsDuplicate.java) (Easy)
+- [Maximum Subarray - 53](src/main/java/com/dsa/array/ContainsDuplicate.java) (Medium)
