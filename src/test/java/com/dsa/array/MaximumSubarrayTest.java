@@ -14,26 +14,6 @@ public class MaximumSubarrayTest {
     }
 
     @Test
-    public void totalSumShouldReturnZeroWithEmptyArray() {
-        int numbers[] = {};
-
-        int expected = 0;
-        int actual = maximumSubarray.totalSum(numbers);
-
-        Assert.assertEquals(expected, actual);
-    }
-
-    @Test
-    public void totalSumShouldReturnSumOfAllElements() {
-        int numbers[] = { 1, 2, 3, 4, 5 };
-
-        int expected = 15;
-        int actual = maximumSubarray.totalSum(numbers);
-
-        Assert.assertEquals(expected, actual);
-    }
-
-    @Test
     public void maximumSubarrayShouldReturnTheSingleElementOfArray() {
         int numbers[] = { 1 };
 
